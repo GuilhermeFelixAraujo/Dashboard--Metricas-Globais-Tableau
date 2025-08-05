@@ -6,7 +6,7 @@ Este repositório contém um dashboard criado no Tableau Public para análise de
 
 Analisar desigualdade social, PIB per capita, IDH, população, área e densidade demográfica de diferentes países.
 
-## 📊 Visualizações
+##  Visualizações
 
 O dashboard apresenta:
 
@@ -23,12 +23,12 @@ O dashboard apresenta:
 - Tableau Public
 - Fonte de dados: ONU
 
-## 🌐 Link para visualização
+##  Link para visualização
 
 Acesse o dashboard completo no Tableau Public:  
 🔗 [https://public.tableau.com/views/INDICADORESSOCIAISDAONUMTRICASGLOBAIS/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
-## 📄 Licença
+##  Licença
 
 Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
