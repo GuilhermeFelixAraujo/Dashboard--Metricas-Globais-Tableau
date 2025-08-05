@@ -28,7 +28,13 @@ O dashboard apresenta:
 Acesse o dashboard completo no Tableau Public:  
 🔗 [https://public.tableau.com/views/INDICADORESSOCIAISDAONUMTRICASGLOBAIS/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
+## Autor
+
+Desenvolvido por **Guilherme Felix Araujo da Silva **
+
+Contato: Linkedin ** www.linkedin.com/in/guilherme-felix-araujo-da-silva-618626295 ** email ** guilherme.analyst@outlook.com **
+
 ##  Licença
 
-Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+Distribuído sob a licença MIT. Consulte o arquivo `LICENÇA` para mais detalhes.
 
